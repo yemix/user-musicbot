@@ -9,11 +9,12 @@ Requirements
 ### PLEASE READ!
 Your account get disabled at first use! You only need to change the password via email from discord and you can use it more times!
 
-### How to use?
+### How to use
 You only must enter your token and write at a server (prefix)help and you get a list of commands!
 
-### More features?
+### More features
 I add more features in the future....
 
+### Questions?
 
 On any questions add me on Discord BombenProdukt#1337
