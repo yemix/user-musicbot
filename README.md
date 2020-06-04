@@ -4,3 +4,4 @@ A discord music bot that login in as a user and play music in authors channel! R
 Requirements
 - ffmpeg
 - python 3.8.3
+- youtube_dl
