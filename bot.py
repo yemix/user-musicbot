@@ -4,7 +4,7 @@ from discord.utils import get
 import youtube_dl
 import os
 
-BOT_PREFIX = '/'
+BOT_PREFIX = '!'
 
 bot = commands.Bot(command_prefix=BOT_PREFIX)
 
@@ -92,4 +92,4 @@ async def play(ctx, url: str):
     await ctx.send(f"Playing: {nname[0]}")
     print("playing\n")
 
-bot.run("NzEzNzk2MTI4ODQ3NTYwNzk1.XslUmQ.Tx6rIf1ILavj3IW1yZrzLMu4eWo", bot=False)
+bot.run("USER TOKEN HERE", bot=False)
