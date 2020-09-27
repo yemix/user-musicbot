@@ -17,4 +17,4 @@ I add more features in the future....
 
 ### Questions?
 
-On any questions add me on Discord BombenProdukt#1337
+On any questions add me on Discord Kvass#1337
