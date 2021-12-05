@@ -17,4 +17,4 @@ I add more features in the future....
 
 ### Questions?
 
-On any questions add me on Discord Yemix#7829
+On any questions add me on Discord pueblo#0001
